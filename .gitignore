@@ -1,3 +1,6 @@
 output/
 raw/
 ratings.json
+
+# Claude Code local settings (can contain secrets)
+.claude/settings.local.json
